@@ -447,6 +447,9 @@ blockquote {
   height: auto;
   padding: 20px 20px; }
 
+#powered-by {
+  font-size: 1.3rem; }
+
 #header {
   display: block;
   width: 100%;
